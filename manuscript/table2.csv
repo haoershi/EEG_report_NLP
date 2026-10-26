@@ -1,7 +1,0 @@
-,,Full cohort,NLP set,Development set,Test set
-,,Overall,Overall,Overall,Overall
-"Patients, n",,9443,2353,153,97
-n,,16976,4213,166,100
-"Recording Type, n (%)",AMB,1352 (7.96),686 (16.28),26 (15.66),25 (25.00)
-"Recording Type, n (%)",LTM,8902 (52.44),2876 (68.26),129 (77.71),61 (61.00)
-"Recording Type, n (%)",ROUTINE,6722 (39.60),651 (15.45),11 (6.63),14 (14.00)

@@ -1,0 +1,5 @@
+report_type,full_n_reports,full_median,full_q1,full_q3,nlp_n_reports,nlp_median,nlp_q1,nlp_q3
+Total,16976,1.0,1.0,2.0,4213,1.0,1.0,2.0
+ROUTINE,6722,1.0,0.0,1.0,651,0.0,0.0,1.0
+LTM,8902,0.0,0.0,1.0,2876,1.0,0.0,2.0
+AMB,1352,0.0,0.0,0.0,686,0.0,0.0,1.0

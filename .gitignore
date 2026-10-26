@@ -1,0 +1,18 @@
+# Allowlist: everything is ignored unless re-included below.
+# The original data (order_info.csv, notes_final.csv, seizure_nlp/, data/, final_output/),
+# private/ (id_map.csv links release IDs to MRN / ORDER_ID) and pipeline.ipynb contain PHI
+# and must never be committed.
+/*
+!/.gitignore
+!/README.md
+!/Manuscript.ipynb
+!/run_ds.py
+!/ds_pred_allnote.py
+!/release_data/
+!/derived/
+!/manuscript/
+
+# Rebuilt by Manuscript.ipynb: derived/ (pickles, bootstrap cache) and manuscript/ (tables, figures)
+
+.ipynb_checkpoints/
+__pycache__/

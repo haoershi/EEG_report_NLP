@@ -1,0 +1,9 @@
+Class,Definition,Abbreviation,N (%) in development set,N (%) in held-out test set
+0*,"No seizures, no clinical events",Sz-/CE-,19 (11%),32 (32%)
+1*,Electroclinical seizure(s),Sz+/CE+,39 (23%),11 (11%)
+2*,Subclinical electrographic seizure(s),Sz+/CE-,58 (35%),16 (16%)
+3,"Electrographic seizure(s), clinical correlate unknown",Sz+/CE?,7 (4%),3 (3%)
+4*,Clinical event(s) without electrographic correlate,EEG-/CE+,52 (31%),40 (40%)
+5,"Clinical event(s), electrographic correlate unknown",EEG?/CE+,1 (<1%),0 (0%)
+6*,"Myoclonus, with or without electrographic correlate",Myoclonus,13 (8%),8 (8%)
+9,Uncertain whether seizures or clinical events occurred,Uncertain,2 (1%),0 (0%)
